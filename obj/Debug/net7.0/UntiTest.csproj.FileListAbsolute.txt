@@ -1,0 +1,15 @@
+D:\dotNetCore\UntiTest\bin\Debug\net7.0\UntiTest.exe
+D:\dotNetCore\UntiTest\bin\Debug\net7.0\UntiTest.deps.json
+D:\dotNetCore\UntiTest\bin\Debug\net7.0\UntiTest.runtimeconfig.json
+D:\dotNetCore\UntiTest\bin\Debug\net7.0\UntiTest.dll
+D:\dotNetCore\UntiTest\bin\Debug\net7.0\UntiTest.pdb
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\UntiTest.csproj.AssemblyReference.cache
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\UntiTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\UntiTest.AssemblyInfoInputs.cache
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\UntiTest.AssemblyInfo.cs
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\UntiTest.csproj.CoreCompileInputs.cache
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\UntiTest.dll
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\refint\UntiTest.dll
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\UntiTest.pdb
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\UntiTest.genruntimeconfig.cache
+D:\dotNetCore\UntiTest\obj\Debug\net7.0\ref\UntiTest.dll
